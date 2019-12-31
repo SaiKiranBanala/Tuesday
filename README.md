@@ -1,2 +1,2 @@
 # Tuesday
-git 1st practice
+git first practice
